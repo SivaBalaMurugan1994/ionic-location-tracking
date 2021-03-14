@@ -1,0 +1,7 @@
+{
+  "name": "live-tracking",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
